@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Priyanka A
 
-## 🚀 Fresher Python Developer | Full Stack Enthusiast | UI/UX Designer
+## 🚀 Fresher Web Developer
 
-Enthusiastic and quick-learning Computer Science graduate with a solid foundation in **Python**, **Django**, and **SQL**.  
-Skilled in building **web applications**, **responsive user interfaces**, and managing **databases**.  
-Eager to contribute to innovative software solutions while enhancing my technical expertise in a collaborative environment.
+Motivated Web Developer Intern with strong knowledge of HTML, CSS, JavaScript, and responsive design. Passionate about creating clean and user-friendly websites. Quick learner with a positive attitude, ready to contribute to real-time web development projects and grow in a collaborative environment.
 
 ---
 
