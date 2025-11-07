@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Priyanka A
 
-## 🚀 Fresher Web Developer
+## 🚀 Fresher Python Developer
 
-Motivated Web Developer Intern with strong knowledge of HTML, CSS, JavaScript, and responsive design. Passionate about creating clean and user-friendly websites. Quick learner with a positive attitude, ready to contribute to real-time web development projects and grow in a collaborative environment.
+Enthusiastic Python Developer with strong programming fundamentals, hands-on project experience, and solid understanding of web development technologies. Skilled in database operations, teamwork, analytical thinking, and problem-solving. Eager to apply technical expertise in real-world software development and contribute effectively to team success.
 
 ---
 
@@ -25,22 +25,26 @@ Motivated Web Developer Intern with strong knowledge of HTML, CSS, JavaScript, a
 ---
 
 ### 📂 Projects
-- **Online Food Delivery DBMS** – MySQL database design for managing restaurants, orders, and delivery agents with relationships & integrity constraints.
-- **Student Management System** – CLI tool in Python for CRUD operations using lists & dictionaries.
 - **Object Crossing Detection for Trains** – ANN-based real-time system to detect unauthorized crossings.
 - **Dynamic Countdown Timer** – HTML, CSS, JavaScript app with start/stop/reset features.
+- **Developed E-commerce Web Application**
+  Django-based e-commerce web application with product listings,cart functionality,and user authentication to simuate a shopping experience
+**Designed a Personal Website**
+  created my portfolio website by using in django
+**Created a Password Generator**
+  A Python-based tool that dynamically generates strong and customizable passwords, ensuring improved security for user accounts and applications.
 
 ---
 
 ### 💼 Internships
 - **Web Development Intern** – Technohacks Solutions Pvt Ltd (Aug 2024)  
   Gained foundational knowledge in HTML, CSS, JavaScript, and responsive design.
-- **UI/UX Design Intern** – Technohacks Solutions Pvt Ltd (Nov 2024)  
-  Designed wireframes & prototypes using Figma with a user-centered approach.
+
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Achievements & Certification
+-certified in **Python Full stack development**(Qspider)
 - Certified in **Basic Python**
 - Certified in **Front-End Development (HTML)**
 - **Microsoft Excel** – Coursera
