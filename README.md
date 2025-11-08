@@ -7,60 +7,56 @@ Enthusiastic Python Developer with strong programming fundamentals, hands-on pro
 ---
 
 ### 💡 About Me
-- 🎓 B.E. Computer Science and Engineering (CGPA: 8.3)
-- 💻 Experienced in **Full Stack Development** (Frontend + Backend)
-- 🌱 Currently learning **Advanced React.js & Cloud Deployment**
-- 🎯 Goal: To work on impactful software projects & contribute to open-source
-- 📍 Location: Krishnagiri, Tamil Nadu, India
+- 🎓 **B.E. Computer Science and Engineering (CGPA: 8.3)**  
+- 💻 Experienced in **Full Stack Development** (Frontend + Backend)  
+- 🌱 Currently learning **Advanced React.js & Cloud Deployment**  
+- 🎯 Goal: Work on impactful software projects & contribute to open-source  
+- 📍 Location: Krishnagiri, Tamil Nadu, India  
 
 ---
 
 ### 🛠 Technical Skills
-- **Languages:** Python, SQL, HTML5, CSS3, JavaScript (ES6)
-- **Frameworks & Libraries:** Django
-- **Databases:** MySQL
-- **Tools & Platforms:** GitHub, VS Code
-- **Concepts:** OOP, DBMS, Data Structures & Algorithms
+**Languages:** Python, SQL, HTML5, CSS3, JavaScript (ES6)  
+**Frameworks & Libraries:** Django  
+**Databases:** MySQL  
+**Tools & Platforms:** GitHub, VS Code  
+**Concepts:** OOP, DBMS, Data Structures & Algorithms  
 
 ---
 
 ### 📂 Projects
-- **Object Crossing Detection for Trains** – ANN-based real-time system to detect unauthorized crossings.
-- **Dynamic Countdown Timer** – HTML, CSS, JavaScript app with start/stop/reset features.
-- **Developed E-commerce Web Application**
-  Django-based e-commerce web application with product listings,cart functionality,and user authentication to simuate a shopping experience
-- **Designed a Personal Website**
-  created my portfolio website by using in django
-**Created a Password Generator**
-  A Python-based tool that dynamically generates strong and customizable passwords, ensuring improved security for user accounts and applications.
+- **Object Crossing Detection for Trains** – ANN-based real-time system to detect unauthorized crossings  
+- **Dynamic Countdown Timer** – HTML, CSS, JavaScript app with start/stop/reset features  
+- **E-commerce Web Application** – Django-based web app with product listings, cart functionality, and user authentication  
+- **Personal Portfolio Website** – Created my portfolio using Django  
+- **Password Generator** – Python-based tool to dynamically generate strong passwords  
 
 ---
 
 ### 💼 Internships
 - **Web Development Intern** – Technohacks Solutions Pvt Ltd (Aug 2024)  
-  Gained foundational knowledge in HTML, CSS, JavaScript, and responsive design.
-
+  Learned HTML, CSS, JavaScript, and responsive web design  
 
 ---
 
-### 🏆 Achievements & Certification
--certified in **Python Full stack development**(Qspider)
-- Certified in **Basic Python**
-- Certified in **Front-End Development (HTML)**
-- **Microsoft Excel** – Coursera
+### 🏆 Certifications
+- **Python Full Stack Development** (QSpiders)  
+- **Basic Python**  
+- **Front-End Development (HTML)**  
+- **Microsoft Excel** – Coursera  
 
 ---
 
 ### 📈 GitHub Stats
 ![Priyanka's GitHub Stats]
-
 https://github.com/priyankaanandan659
+
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka2719)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:priyankaanandan659@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka2719)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:priyankaanandan659@gmail.com)  
 
 ---
 
-⭐️ **From [Priyanka A](https://github.com/YourUsername)**
+⭐️ **From [Priyanka A](https://github.com/priyankaanandan659)**
