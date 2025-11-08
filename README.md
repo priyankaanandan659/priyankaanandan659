@@ -29,7 +29,7 @@ Enthusiastic Python Developer with strong programming fundamentals, hands-on pro
 - **Dynamic Countdown Timer** – HTML, CSS, JavaScript app with start/stop/reset features.
 - **Developed E-commerce Web Application**
   Django-based e-commerce web application with product listings,cart functionality,and user authentication to simuate a shopping experience
-_ **Designed a Personal Website**
+- **Designed a Personal Website**
   created my portfolio website by using in django
 **Created a Password Generator**
   A Python-based tool that dynamically generates strong and customizable passwords, ensuring improved security for user accounts and applications.
