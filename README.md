@@ -52,9 +52,9 @@ Enthusiastic Python Developer with strong programming fundamentals, hands-on pro
 ---
 
 ### 📈 GitHub Stats
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Priyanka's GitHub Stats]
 
+https://github.com/priyankaanandan659
 ---
 
 ### 🌐 Connect With Me
