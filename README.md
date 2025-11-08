@@ -1,19 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Priyanka A | Python Developer</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  <style>
-    body {font-family: 'Roboto', sans-serif; margin:0; background:#f9f9f9; color:#333;}
-    a {text-decoration:none; color: inherit;}
-    header {background:#fff; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:20px;}
-    .container {max-width:1000px; margin:0 auto; padding:20px;}
-    .flex {display:flex; gap:20px; flex-wrap:wrap;}
-    .rounded {border-radius:10px;}
-    .shadow {box-shadow:0 2px 6px rgba(0,0,0,0.1);}
+# 👋 Hi, I'm Priyanka A
+
+## 🚀 Fresher Python Developer
+
+Enthusiastic Python Developer with strong programming fundamentals, hands-on project experience, and solid understanding of web development technologies. Skilled in database operations, teamwork, analytical thinking, and problem-solving. Eager to apply technical expertise in real-world software development and contribute effectively to team success.
+
+---
+
+### 💡 About Me
+- 🎓 **B.E. Computer Science and Engineering (CGPA: 8.3)**  
+- 💻 Experienced in **Full Stack Development** (Frontend + Backend)  
+- 🌱 Currently learning **Advanced React.js & Cloud Deployment**  
+- 🎯 Goal: Work on impactful software projects & contribute to open-source  
+- 📍 Location: Krishnagiri, Tamil Nadu, India  
+
+---
+
+### 🛠 Technical Skills
+**Languages:** Python, SQL, HTML5, CSS3, JavaScript (ES6)  
+**Frameworks & Libraries:** Django  
+**Databases:** MySQL  
+**Tools & Platforms:** GitHub, VS Code  
+**Concepts:** OOP, DBMS, Data Structures & Algorithms  
+
+---
+
+### 📂 Projects
+- **Object Crossing Detection for Trains** – ANN-based real-time system to detect unauthorized crossings  
+- **Dynamic Countdown Timer** – HTML, CSS, JavaScript app with start/stop/reset features  
+- **E-commerce Web Application** – Django-based web app with product listings, cart functionality, and user authentication  
+- **Personal Portfolio Website** – Created my portfolio using Django  
+- **Password Generator** – Python-based tool to dynamically generate strong passwords  
+
+---
+
+### 💼 Internships
+- **Web Development Intern** – Technohacks Solutions Pvt Ltd (Aug 2024)  
+  Learned HTML, CSS, JavaScript, and responsive web design  
+
+---
+
+### 🏆 Certifications
+- **Python Full Stack Development** (QSpiders)  
+- **Basic Python**  
+- **Front-End Development (HTML)**  
+- **Microsoft Excel** – Coursera  
+
+---
+
+### 📈 GitHub Stats
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankaanandan659&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaanandan659&layout=compact&theme=radical)  
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka2719)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:priyankaanandan659@gmail.com)  
+
+---
+
+⭐️ **From [Priyanka A](https://github.com/priyankaanandan659)**    .shadow {box-shadow:0 2px 6px rgba(0,0,0,0.1);}
     h1,h2,h3,h4 {margin:0; margin-bottom:10px;}
     h1 {font-size:2rem;}
     h2 {font-size:1.5rem; margin-top:20px;}
