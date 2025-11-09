@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Priyanka A
+# 👋 Hi, I'm Priyanka 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=7F00FF&width=500&lines=Hi,+I'm+Priyanka+A!;Python+Developer+%7C+Full+Stack+%7C+Django+%7C+React" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=7F00FF&width=500&lines=Hi,+I'm+Priyanka!;Python+Developer+%7C+Full+Stack+%7C+Django+" alt="Typing SVG">
 </p>
 
 ## 🚀 Fresher Python Developer
